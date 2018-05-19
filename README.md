@@ -1,0 +1,2 @@
+# WADURIEL-BOT
+heroku 24/7
